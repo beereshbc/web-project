@@ -1,0 +1,40 @@
+body {
+    background-color: #e5e5fd;
+    margin: 90px;
+    width: 80%;
+    border: solid 5px;
+    padding: 30px;
+}
+.h1 {
+    font-size: 22;
+}
+.Tribute {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 90px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+}
+.man {
+    margin-top: 100px;
+}
+.topic-section {
+    width: 30px;
+}
+
+.code-skill {
+    line-height: 2;
+}
+.code-word {
+    font-family: serif;
+    clear: left;
+    margin: 10px auto 10px auto;
+}
+.big-size {
+    line-height: 1.5em;
+}
+.wikipedia {
+    margin: left;
+}
