@@ -4,8 +4,6 @@
 
 # Kannada books
 
-## malegalalli madhumagalu
-
 ## karvalo
 
 # English books
