@@ -7,3 +7,9 @@
 ## malegalalli madhumagalu
 
 ## karvalo
+
+# English books
+
+## Rich dad poor dad
+
+## think and grow rich
