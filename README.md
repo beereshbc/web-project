@@ -11,5 +11,3 @@
 # English books
 
 ## Rich dad poor dad
-
-## think and grow rich
